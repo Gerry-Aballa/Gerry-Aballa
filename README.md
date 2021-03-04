@@ -1,16 +1,31 @@
-### Hi there 👋
+<img src="https://github.com/Gerry-Aballa/GerryAballa/blob/main/readmefiles/gitbanner.svg" alt="Banner image">
 
-<!--
-**Gerry-Aballa/Gerry-Aballa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, you are at Gerry Aballa's Git :wave::computer::iphone:
 
-Here are some ideas to get you started:
+I am a tech freak that finds satisfaction in creating and using technology to elevate people, businesses and building the community. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My tech stack
+
+
+
+<details>
+	<summary>More staff about me 😎</summary>
+    <br>
+    <p>
+        <i>Alexa, give me a beat 🎶</i>
+    </p>
+    - I create content about my tech obsessions ✍️ <br>
+	- All work and no play makes Gerry a dull guy 😂
+</details>
+
+<hr> 
+
+<p align="center">
+    <i>I might not be in but please feel free to contact me about anything.</i>
+    <p align="center">
+        <a href="" alt="Twitter"><img src="https://github.com/Gerry-Aballa/GerryAballa/blob/main/readmefiles/twitter-fill.svg"</a>
+        <a href="" alt="Linkedin"><img src="https://github.com/Gerry-Aballa/GerryAballa/blob/main/readmefiles/linkedin-fill.svg"</a>
+        <a href="" alt="E-Mail"><img src="https://github.com/Gerry-Aballa/GerryAballa/blob/main/readmefiles/mail-fill.svg"</a>
+        <a href="" alt="My Site"><img src="https://github.com/Gerry-Aballa/GerryAballa/blob/main/readmefiles/external-link-line.svg"</a>
+    </p>
+</p>
