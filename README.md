@@ -1,4 +1,4 @@
-<img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/gitbanner.svg" alt="Banner image">
+<img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/gitbanner.png" alt="Banner image">
 
 # Hi, you are at Gerry Aballa's Git :wave::computer::iphone:
 
