@@ -5,7 +5,7 @@
 I am a tech freak that finds satisfaction in creating and using technology to elevate people, businesses and building the community. Discipline over motivation. Why? Let's talk! :speech_balloon:
 
 ### My tech stack
-![](https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/javascript.svg =40X40), ![](https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/html5.svg), ![](), ![](), ![](), ![](), ![]()
+<img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/javascript.svg" alt="Javascript" width="50" height="50">
 
 <details>
 	<summary>More staff about me 😎</summary>
