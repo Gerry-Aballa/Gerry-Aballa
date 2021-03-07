@@ -24,9 +24,9 @@ I am a tech freak that finds satisfaction in creating and using technology to el
 <p align="center">
     <i>I might not be in but please feel free to contact me about anything. 🤓 </i>
     <p align="center">
-        <a href="" alt="Twitter"><img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/twitter-fill.svg"</a>
-        <a href="" alt="Linkedin"><img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/linkedin-fill.svg"</a>
+        <a href="https://twitter.com/gerry_aballa" alt="Twitter"><img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/twitter-fill.svg"</a>
+        <a href="http://linkedin.com/in/gerry-aballa-aa4b0b169" alt="Linkedin"><img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/linkedin-fill.svg"</a>
         <a href="" alt="E-Mail"><img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/mail-fill.svg"</a>
-        <a href="" alt="My Site"><img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/external-link-line.svg"</a>
+        <a href="https://www.aboutgerry.com" alt="My Site"><img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/external-link-line.svg"</a>
     </p>
 </p>
