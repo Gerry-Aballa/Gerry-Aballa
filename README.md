@@ -6,6 +6,9 @@ I am a tech freak that finds satisfaction in creating and using technology to el
 
 ### My tech stack
 <img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/javascript.svg" alt="Javascript" width="50" height="50">
+<img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/html5.svg" alt="Html5" width="50" height="50">
+<img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/css3.svg" alt="CSS3" width="50" height="50">
+<img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/firebase.svg" alt="Firebase" width="50" height="50">
 
 <details>
 	<summary>More staff about me 😎</summary>
