@@ -7,7 +7,6 @@ I am a tech freak that finds satisfaction in creating and using technology to el
 ### My tech stack
 
 
-
 <details>
 	<summary>More staff about me 😎</summary>
     <br>
