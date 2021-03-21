@@ -2,14 +2,11 @@
 
 # Hi, you are at Gerry Aballa's Git :wave::computer::iphone:
 
-I am a tech freak that finds satisfaction in creating and using technology to elevate people, businesses and building the community. Discipline over motivation. Why? Let's talk! :speech_balloon:
+I find satisfaction in creating and using technology to elevate people, businesses and building the community. Discipline over motivation. Why? Let's talk! :speech_balloon:
 
 <details>
 	<summary>More staff about me 😎</summary>
     <br>
-    <p>
-        <i>Alexa, give me a beat 🎶</i>
-    </p>
     	- I create content about my tech obsessions ✍️ <br>
 	- All work and no play makes Gerry a dull guy 😂 <br>
 	- Discipline will take you places that motivation can not 🌎 <br>
