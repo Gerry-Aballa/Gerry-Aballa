@@ -4,10 +4,6 @@
 
 I am a tech freak that finds satisfaction in creating and using technology to elevate people, businesses and building the community. Discipline over motivation. Why? Let's talk! :speech_balloon:
 
-### My tech stack
-<img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/javascript.svg" alt="Javascript" width="50" height="50">    <img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/html5.svg" alt="Html5" width="50" height="50">    <img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/css3.svg" alt="CSS3" width="50" height="50">    <img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/firebase.svg" alt="Firebase" width="50" height="50">    <img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/aws.svg" alt="aws" width="100" height="50">    <img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/git.svg" alt="Git" width="100" height="50">    <img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/vuejs.svg" width="50" height="50">    <img src="https://github.com/Gerry-Aballa/Gerry-Aballa/blob/main/readmefiles/techstack/jamstack.svg" alt="Jamstack" width="100" height="50">    
-
-
 <details>
 	<summary>More staff about me 😎</summary>
     <br>
