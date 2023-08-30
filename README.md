@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **jest, jasmine**
 
-- 👯 I’m looking to collaborate on **anything 🐍 and Typscript**
+- 👯 I’m looking to collaborate on **anything 🐍 and Typescript**
 
 - 📫 How to reach me **gerry.o.aballa@gmail.com**
 
