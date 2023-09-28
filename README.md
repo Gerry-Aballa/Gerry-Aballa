@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerry</h1>
 
 ### About Me:
-🔭 I’m currently working on **bots** 🤖<br>👯 I’m looking to collaborate on anything **Python** 🐍<br>🤝 I’m looking for help with **Test Automation**<br>🌱 I’m currently learning **playwright, jest**
+🔭 I’m currently working on **bots** 🤖<br>👯 I’m looking to collaborate on anything **Python** 🐍<br>🤝 I’m looking for help with **Test Automation**<br>🌱 I’m currently learning **playwright, jenkins**
 
 
 ### Socials:
